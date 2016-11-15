@@ -17,8 +17,8 @@ module.exports = function (grunt) {
                 options: {
                     style: 'expanded'
                 },
-                src: 'bower_components/materialize/sass/materialize.scss',
-                dest: "src/css/materialize.css"
+                src: 'src/scss/index.scss',
+                dest: "src/css/style.css"
             }
         },
         autoprefixer: {

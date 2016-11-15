@@ -41,6 +41,8 @@ jspm_packages
 .idea
 bower_components
 
-!/bower_components/materialize/sass/components/_variables.scss
 /.sass-cache/
 /build/
+/src/css/
+/src/fonts
+/src/js/lib/
